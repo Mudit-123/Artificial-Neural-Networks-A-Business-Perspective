@@ -4,9 +4,7 @@ Business Case Study to predict customer churn rate based on Artificial Neural Ne
 Google collab link : https://colab.research.google.com/drive/154Z45zvmJjCluuEW_YFxmiXmkCwzuhfS?usp=sharing
 
 Simple Artificial nueral network 
-
-https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/Comp-1.gif
-![image](https://github.com/user-attachments/assets/c2f51b03-2a25-4842-a431-1e8888aa3f3f)
+![image](https://github.com/user-attachments/assets/35ab9c60-8c71-4f48-91cf-e2a51f45089a)
 
 Neural networks adapt themselves to the changing input so that the network generates the best possible result without the need to redesign the output criteria. The functionality of neural networks is often compared to the one of the multiple linear regression, where one uses multiple input features, also called independent variables, to predict the output variable, the dependent variable. In case of Neural Network we also use input features, referred as Input Layer Neurons to get information and learn about the outcome variable, referred as Output Layer.The main difference between such regression and Neural Network is that, in the case the former the process runs in one iteration by minimizing the sum of the squared residuals (similar to cost function), whereas in case of Neural Network there is an intermediate step portrayed by the Hidden Layer Neurons which are used to get signals from the input layers and learn about the observations over and over again until the goal is achieved, the cost is minimized and no improvement is possible. So, one can say that ANNs are much more sophisticated than multiple linear regression.
 
