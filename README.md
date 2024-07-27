@@ -5,7 +5,7 @@ Google collab link : https://colab.research.google.com/drive/154Z45zvmJjCluuEW_Y
 
 # Simple Artificial nueral network 
 
-https://github.com/Mudit-123/Artificial-Neural-Networks-A-Business-Perspective/blob/main/ezgif.com-resize.gif?raw=true
+[https://github.com/Mudit-123/Artificial-Neural-Networks-A-Business-Perspective/blob/main/ezgif.com-resize.gif?raw=true](https://github.com/Mudit-123/Artificial-Neural-Networks-A-Business-Perspective/blob/main/ezgif.com-resize.gif?raw=true)
 
 ![image](https://github.com/user-attachments/assets/35ab9c60-8c71-4f48-91cf-e2a51f45089a)
 
